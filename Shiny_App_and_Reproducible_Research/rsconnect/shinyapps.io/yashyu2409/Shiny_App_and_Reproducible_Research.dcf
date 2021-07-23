@@ -1,0 +1,13 @@
+name: Shiny_App_and_Reproducible_Research
+title: Shiny_App_and_Reproducible_Research
+username:
+account: yashyu2409
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4416093
+bundleId: 4850119
+url: https://yashyu2409.shinyapps.io/Shiny_App_and_Reproducible_Research/
+when: 1627058476.47975
+lastSyncTime: 1627058476.47975
+asMultiple: FALSE
+asStatic: FALSE
